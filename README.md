@@ -20,6 +20,15 @@ Financial institutions face massive losses due to fraudulent credit card transac
 * Build an interview-ready, real-world ML solution
 
 ---
+## 📊 Dataset
+
+The dataset is not included in this repository due to GitHub file size limits.
+
+You can download it from Kaggle:
+https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+After downloading, place `creditcard.csv` in the project root directory.
+
 
 ## 📊 Dataset Description
 
